@@ -9,5 +9,6 @@ Start here:
 - [CoBuddy V0 Product Spec](docs/v0-product-spec.md)
 - [CoBuddy V0 User Journey](docs/v0-user-journey.md)
 - [CoBuddy V0 WebRTC Session Contract](docs/v0-webrtc-session-contract.md)
+- [CoBuddy V0 Prototype Plan](docs/v0-prototype-plan.md)
 - [CoBuddy Realtime Protocol And Stack Research](docs/realtime-protocol-research.md)
 - [CoBuddy Market Landscape](docs/market-landscape.md)
